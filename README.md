@@ -3,4 +3,4 @@
 - Musical Note Generator
 - Stopwatch 
 - PWD Generator
-- Jitter 
+- Jitter Measurements
